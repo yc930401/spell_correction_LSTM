@@ -21,7 +21,7 @@ So, it is very very slow to train and takes up a lot of memeory. Try to run the 
 ## Result
 
 Currently, I'm not able to finish running the model. Because I do not have enough time and another computer to run on. 
-I'll try to run it if I have time later.
+I'll try to run it if I have time later. We cannot get the desired result unless we trained enough. 
 
 ## Some points to note
 
